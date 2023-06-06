@@ -8,10 +8,10 @@ class APIException(Exception):
 
 
 values = {
-    "Euro": "EUR",
-    "US Dollar": "USD",
-    "Russian Ruble": "RUB",
-    "Indian Rupee": "INR",
+    "EUR",
+    "USD",
+    "RUB",
+    "INR",
 }
 
 
